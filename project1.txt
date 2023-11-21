@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title> Portfolio </title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1 class="center"> Thishara Herath </h1>
+<img src="C:\Users\ASUS\Downloads\Photo.jpg" alt="Photo" width="200" height="200">
+<p title="About me">I'm an undergraduate student in Sabaragamuwa University of Sri Lanka. I'm Studying Information & Communication Technology under the Department of Economics & Statistics Faculty of Social Sciences & Languages.
+I'm one of the committee member in IEEE WIE Student Branch Affinity Group of SUSL and currently working as a volunteer IEEE Student Branch of SUSL, and also I'm working actively in Student Circle in Department of Economics & Statistics of Sabaragamuwa University of Sri Lanka.
+</p>
+<a href="https://www.linkedin.com/in/thishara-herath-b60281267"> Linkedin </a><br>
+<a href=https://github.com/ThisharaHerath/ThisharaHerath.git> GitHub </a>
+
+<h2><u>EDUCATION</u></h2>
+<ul>
+<li>Sep 2020 - 2024       BA Hons in Information and Communication Technology <br>
+                                  Department of Economics and Statistics <br>
+                                  Faculty of Social Sciences and Languages <br>
+                                  Sabaragamuwa University of Sri Lanka (UG) <br><br>
+</li>
+
+<li>June 2016 - 2018     Wayamba Royal Collage Kurunegala <br>
+                                  Passed G.C.E. Advanced Level Examination in 2018 <br><br>
+</li>
+
+<li>March 2010 - 2015  Mahasen National School Nikaweratiya <br>
+                                 Passed G.C.E. Ordinary Level Examination in 2015 <br>
+</li></ul>
+
+<h2 id="secondHead"><u>COURSES</u></h2>
+<ol>
+<li class="secondPera"> UI/UX For Beginners <br>
+Great Learning</li> <br>
+
+<li><b>Get Started with Figma</b><br>
+Coursera</li> <br>
+
+<li><b>Designing a Low Fidelity Prototype in Figma</b><br> 
+Coursera</li>
+
+<h2><u>EXTREA CURRICULER ACTIVITIES </u></h2> 
+<ul>
+<li><b>Member</b> - IEEE Student Branch Of  SUSL</li><br>
+<li><b>Committee Member</b> - IEEE WIE Student Branch Affinity Group of SUSL</li><br>
+<li><b>Competitor</b> - IEEE INSL Provincial Competition Sabaragamuwa Province 2022</li><br>
+<li><b>Member</b> - Student Circle of Department of Economics and Statistics</li><br> 
+<li><b>Article writer</b> - The view magazine by Student Circle</li><br>
+<li><b>Preparing paper</b> - GCE A/L Seminar 2021</li><br><br>
+
+<button> Next </button>
+
+
+</html>
